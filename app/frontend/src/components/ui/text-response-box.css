@@ -1,0 +1,14 @@
+.text-response-box textarea {
+  font-family: inherit;
+  font-size: 1rem;
+  background: #f9fafb;
+  color: #22223b;
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+  padding: 0.5rem;
+  resize: none;
+}
+.text-response-box label {
+  font-size: 1rem;
+  color: #4b5563;
+}
